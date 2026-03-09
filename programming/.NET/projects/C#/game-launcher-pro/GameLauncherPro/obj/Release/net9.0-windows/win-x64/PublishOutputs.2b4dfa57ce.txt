@@ -1,0 +1,7 @@
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\game-launcher-pro\dist\GameLauncherPro.pdb
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\game-launcher-pro\dist\D3DCompiler_47_cor3.dll
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\game-launcher-pro\dist\PenImc_cor3.dll
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\game-launcher-pro\dist\PresentationNative_cor3.dll
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\game-launcher-pro\dist\vcruntime140_cor3.dll
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\game-launcher-pro\dist\wpfgfx_cor3.dll
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\game-launcher-pro\dist\GameLauncherPro.exe

@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\study\\Dev_Toolchain\\programming\\.NET\\projects\\C#\\game-launcher-pro\\TestPreserveImages\\TestPreserveImages.csproj": {}
+  },
+  "projects": {
+    "F:\\study\\Dev_Toolchain\\programming\\.NET\\projects\\C#\\game-launcher-pro\\GameLauncherPro\\GameLauncherPro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\study\\Dev_Toolchain\\programming\\.NET\\projects\\C#\\game-launcher-pro\\GameLauncherPro\\GameLauncherPro.csproj",
+        "projectName": "GameLauncherPro",
+        "projectPath": "F:\\study\\Dev_Toolchain\\programming\\.NET\\projects\\C#\\game-launcher-pro\\GameLauncherPro\\GameLauncherPro.csproj",
+        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+        "outputPath": "F:\\study\\Dev_Toolchain\\programming\\.NET\\projects\\C#\\game-launcher-pro\\GameLauncherPro\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "11.0.100"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[113.1.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100-preview.1.26104.118/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\study\\Dev_Toolchain\\programming\\.NET\\projects\\C#\\game-launcher-pro\\TestPreserveImages\\TestPreserveImages.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\study\\Dev_Toolchain\\programming\\.NET\\projects\\C#\\game-launcher-pro\\TestPreserveImages\\TestPreserveImages.csproj",
+        "projectName": "TestPreserveImages",
+        "projectPath": "F:\\study\\Dev_Toolchain\\programming\\.NET\\projects\\C#\\game-launcher-pro\\TestPreserveImages\\TestPreserveImages.csproj",
+        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
+        "outputPath": "F:\\study\\Dev_Toolchain\\programming\\.NET\\projects\\C#\\game-launcher-pro\\TestPreserveImages\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {
+              "F:\\study\\Dev_Toolchain\\programming\\.NET\\projects\\C#\\game-launcher-pro\\GameLauncherPro\\GameLauncherPro.csproj": {
+                "projectPath": "F:\\study\\Dev_Toolchain\\programming\\.NET\\projects\\C#\\game-launcher-pro\\GameLauncherPro\\GameLauncherPro.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "11.0.100"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100-preview.1.26104.118/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

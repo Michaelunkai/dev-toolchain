@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\study\\Dev_Toolchain\\programming\\.NET\\projects\\C#\\game-launcher-pro\\GameLauncherPro.CLI\\GameLauncherPro.CLI.csproj": {}
+  },
+  "projects": {
+    "F:\\study\\Dev_Toolchain\\programming\\.NET\\projects\\C#\\game-launcher-pro\\GameLauncherPro.CLI\\GameLauncherPro.CLI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\study\\Dev_Toolchain\\programming\\.NET\\projects\\C#\\game-launcher-pro\\GameLauncherPro.CLI\\GameLauncherPro.CLI.csproj",
+        "projectName": "GameLauncherPro.CLI",
+        "projectPath": "F:\\study\\Dev_Toolchain\\programming\\.NET\\projects\\C#\\game-launcher-pro\\GameLauncherPro.CLI\\GameLauncherPro.CLI.csproj",
+        "packagesPath": "F:\\DevKit\\sdk\\dotnet\\.nuget\\packages\\",
+        "outputPath": "F:\\study\\Dev_Toolchain\\programming\\.NET\\projects\\C#\\game-launcher-pro\\GameLauncherPro.CLI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "11.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.12, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[9.0.12, 9.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[9.0.12, 9.0.12]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[9.0.12, 9.0.12]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100-preview.1.26104.118/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
